@@ -1,0 +1,142 @@
+cSharp: 
+  
+  - due: 3/6/22
+    task: 
+      ProgEX 4-1/4-4
+      DebEX 4-1/4-4
+      Quiz
+    
+  - due: 3/20/22
+    task:
+      ProgEX 5-1/5-2
+      DebEX 5-1/5-3
+      
+  - due:  3/27/22
+    task: 
+      ProgEx 5-3/5-4
+      DebEX 5-4
+      Quiz
+      
+  - due: 4/6/22
+    task:
+      ProgEx 6-2/6-8
+      DebEX 6-3/6-4
+      Quiz
+      
+  - due: 4/17/22
+    task: 
+      ProgEX 7-1/7-3
+      DebEX 7-1/7-4
+      Quiz
+    
+  - due: 4/24/22
+    task: 
+      ProgEX 9-1/9-5
+      DebEX 9-1/9-3
+      
+  - due: 5/1/22
+    task:
+      ProgEX 9-7
+      DebEX 9-3
+      Quiz
+      
+  - due: 5/10/22
+    task: 
+      ProgEX 11-1/11-3
+      DebEX 11-1/11-4
+      Quiz
+    
+
+Net1:
+
+  - due: 3/6/22
+    task: 
+      LabSim 4-1/4-2
+      Quiz
+      Think Crit
+      
+  - due: 3/13/22
+    task: 
+      Lab 5-1
+      LabSim 5-1/5-2
+      Quiz 
+      Think Crit
+      
+  - due: 3/27/22
+    task: 
+      Lab 6-1, 
+      LabSim 6-1/6-2 
+      Quiz 
+      Think Crit
+      
+  - due: 4/3/22
+    task: 
+      Lab 7-1/7-3
+      LabSim 7-1/7-2
+      Quiz
+      Think Crit
+
+  - due: 4/17/22
+    task:
+      LabSim 8-1
+      Quiz
+      Think Crit
+
+  - due: 4/24/22
+    task:
+      Lab 9-1/9-3
+      LabSim 9-1/9-2
+      Quiz
+      Think Crit
+
+  - due: 5/1/22
+    task:
+      Lab 10-1
+      LabSim 10-1/10-2
+      Quiz
+      Think Crit
+
+  - due: 5/8/22
+    task:
+      Lab 11-1/11-4
+      LabSim 11-1/11-2
+      Quiz
+      Think Crit
+
+  - due: 5/15/22
+    task:
+      Lab 12-1
+      LabSim 12-1/12-2
+      Quiz
+      Think Crit
+
+Windows:
+
+  - due: 3/20/22
+    task: 
+      SAM
+      Challenge
+
+  - due: 4/10/22
+    task: 
+      SAM
+      Challenge
+
+  - due: 4/24/22
+    task: 
+      SAM
+      Challenge
+
+  - due: 5/1/22
+    task: 
+      SAM
+      Challenge    
+
+    
+Unix:
+
+  - due: 3/6/22
+    task:
+      CH.3 Lab
+      CH.3 Questions
+      CH.3 Quiz
