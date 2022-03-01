@@ -17,9 +17,9 @@ net_date = due_dates['Net1']
 win_date = due_dates['Windows']
 
 # assigns the value from the 'due' key and parses it as a date 
-cDue = datetime.datetime.strptime(cs_date[0]['due'], '%m/%d/%Y').date()
-nDue = datetime.datetime.strptime(net_date[0]['due'], '%m/%d/%Y').date()
-wDue = datetime.datetime.strptime(win_date[0]['due'], '%m/%d/%Y').date()
+cDue = dt.strptime(cs_date[0]['due'], '%m/%d/%Y').date()
+nDue = dt.strptime(net_date[0]['due'], '%m/%d/%Y').date()
+wDue = dt.strptime(win_date[0]['due'], '%m/%d/%Y').date()
 
 print(f"You have some C# assignments due in {str(cDue - today_delta).split(', ')[0]}\n")
 [print('  -  ', x) for x in cs_date[0]['task'].split(' ')]
