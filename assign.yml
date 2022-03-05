@@ -1,11 +1,5 @@
 cSharp: 
-  
-  - due: 3/6/2022
-    task: 
-      ProgEX-4-1/4-4
-      DebEX-4-1/4-4
-      Quiz
-    
+   
   - due: 3/20/2022
     task:
       ProgEX-5-1/5-2
@@ -48,12 +42,6 @@ cSharp:
     
 
 Net1:
-
-  - due: 3/6/2022
-    task: 
-      LabSim-4-1/4-2
-      Quiz
-      Think-Crit
       
   - due: 3/13/2022
     task: 
